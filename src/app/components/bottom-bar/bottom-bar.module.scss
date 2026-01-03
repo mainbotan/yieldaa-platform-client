@@ -5,12 +5,12 @@
     z-index: 90;
     left: 0rem;
     bottom: 0;
-    height: 1rem;
+    height: 1.3rem;
     width: 100%;
-    background-color: var(--color-leader);
+    background-color: var(--color-surface-glass-secondary);
     overflow: hidden;
     display: flex;
-    border-top: 1px solid var(--color-stroke-secondary);
+    // border-top: 1px solid var(--color-stroke-secondary);
     
     .grid {
         display: flex;
